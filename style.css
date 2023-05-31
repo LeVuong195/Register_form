@@ -1,0 +1,21 @@
+body{
+    
+    
+}
+
+.label{
+    float: right ;
+}
+.submit{
+    background-color: blue;
+    color: white;
+
+    float: right ;
+}
+
+dn{
+    background-color: purple;
+}
+span{
+    color: red;
+}
